@@ -18,3 +18,7 @@ Once the PR is made, I'll review it and give my insights on which the planner ca
 
 
 Simple.
+
+
+## Installation
+Don't forget to install `pkg-config`, `openssl-devel`
